@@ -1,0 +1,81 @@
+body{
+  background-image:url("image/priory_background_07.jpg");
+  background-repeat:none;
+  max-width:100%;
+  height:100%;
+  position:relative;
+  margin:0 auto;
+}
+
+#background{
+  width:100%;
+  height:100%;
+  position:relative;
+  margin:0 auto;
+}
+
+#title{
+  text-align:center;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+  font-size:4em;
+}
+
+.quote-box{
+  position:relative;
+  height:320px;
+  width:670px;
+  max-width:100%;
+  max-height:100%;
+  top:50px;
+  background:rgba(255,255,255,.3);
+  margin:0 auto;
+
+}
+
+#quote-text{
+  font-size:2em;
+  padding:40px 40px 20px 40px;
+  color:white;  
+}
+
+
+#author{
+  font-size:16px;
+  color:white;
+  font-style:italic;
+  padding:40px 40px 20px 40px;
+}
+
+
+#new-quote{
+  position:absolute;
+  top:253px;
+  left:80%;
+  padding:10px 20px 10px 20px;
+  margin:0 auto;
+}
+
+.button{
+  color:#69A7AB;
+  font-weight:bold;
+  margin:0 auto;
+  font-size:19px;
+  font-family: 'Dancing Script', cursive;
+  
+}
+.twitter-share-button{
+  color:#69A7AB;
+}
+
+#twitter{
+  font-size:22px;
+  position:absolute;
+  top:80%;
+  left:3%;
+  margin:0 auto;
+}
+
+a:hover{
+  text-decoration:none;
+}
